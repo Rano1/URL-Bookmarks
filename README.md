@@ -11,8 +11,32 @@
 * [阮一峰](http://www.ruanyifeng.com/blog/archives.html)
 
 
+### 创业
+* [36kr](http://36kr.com/)
+* [创业邦](http://wwv.cyzone.cn/)
+* [极客公园](http://www.geekpark.net/)
+* [华尔街见闻](https://wallstreetcn.com/)
+* [财经头条](https://www.cj1.com.cn/)
+
+
+### 新闻资讯
+* [今日头条](https://www.toutiao.com/)
+* [一点资讯](http://www.yidianzixun.com/)
+* [ZAKER新闻](http://www.myzaker.com/)
+* [澎湃新闻](http://www.thepaper.cn/)
+
+
+### 社区
+* [豆瓣](https://www.douban.com/)
+* [知乎](https://www.zhihu.com/)
+
+
 ### 开发者社区
 * [CSDN](https://www.csdn.net/)
+* [简书](https://www.jianshu.com/)
+* [technet](https://technet.microsoft.com/zh-cn/)
+* [V2EX](https://www.v2ex.com/)
+* [Mono开发者联盟](http://www.51mono.com/)
 
 
 ### 在线教育平台（国内）
@@ -46,11 +70,15 @@
 * [Firebase Google旗下开发者工具](https://firebase.google.com/)
 
 
-### 生活便利
-* [本地通 查找网点等](http://hz.bendibao.com/wangdian/)
+### 游戏资讯
+* [游民星空](http://www.gamersky.com/)
+* [游戏邦](http://gamerboom.com/)
+* [GameRes游资网](http://www.gameres.com/)
+
 
 
 ## 第三方SDK
+============================
 
 ### 数据统计分析平台
 * [GameAnalytics 移动游戏数据分析公司](https://gameanalytics.com/)
@@ -68,5 +96,20 @@
 * [融云](http://www.rongcloud.cn/)
 
 
+## 生活
+============================
 
+### 省钱
+* [什么值得买](https://www.smzdm.com/)
+
+
+### 旅游
+* [飞猪](https://www.fliggy.com/)
+* [去哪儿](https://www.qunar.com/)
+* [携程旅行](http://www.ctrip.com/)
+* [蚂蜂窝 自由行](http://www.mafengwo.cn/)
+
+
+### 生活便利
+* [本地通 查找网点等](http://hz.bendibao.com/wangdian/)
 * []()
