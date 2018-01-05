@@ -24,6 +24,7 @@
 * [一点资讯](http://www.yidianzixun.com/)
 * [ZAKER新闻](http://www.myzaker.com/)
 * [澎湃新闻](http://www.thepaper.cn/)
+* [网易新闻](http://news.163.com/)
 
 
 ### 社区
