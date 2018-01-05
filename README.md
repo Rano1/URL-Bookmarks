@@ -38,6 +38,7 @@
 * [technet](https://technet.microsoft.com/zh-cn/)
 * [V2EX](https://www.v2ex.com/)
 * [Mono开发者联盟](http://www.51mono.com/)
+* [开源中国](http://www.oschina.net/)
 
 
 ### 在线教育平台（国内）
