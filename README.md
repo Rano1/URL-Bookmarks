@@ -112,6 +112,9 @@
 * [携程旅行](http://www.ctrip.com/)
 * [蚂蜂窝 自由行](http://www.mafengwo.cn/)
 
+### Google Play
+* [APKPure 免费下载GooglePlay上的应用 需要翻墙](https://apkpure.com)
+
 
 ### 生活便利
 * [本地通 查找网点等](http://hz.bendibao.com/wangdian/)
