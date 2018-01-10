@@ -8,7 +8,8 @@
 * [Ra(博主自己的)](http://blog.csdn.net/vipzjyno1)
 * [廖雪峰 Python Git](http://www.liaoxuefeng.com/)
 * [老罗的Android之旅](http://blog.csdn.net/Luoshengyang)
-* [阮一峰](http://www.ruanyifeng.com/blog/archives.html)
+* [阮一峰 黑客与画家译者，Web](http://www.ruanyifeng.com/blog/archives.html)
+* [云风 游戏界大牛](https://blog.codingnow.com/)
 
 
 ### 创业
@@ -110,6 +111,9 @@
 * [去哪儿](https://www.qunar.com/)
 * [携程旅行](http://www.ctrip.com/)
 * [蚂蜂窝 自由行](http://www.mafengwo.cn/)
+
+### Google Play
+* [APKPure 免费下载GooglePlay上的应用 需要翻墙](https://apkpure.com)
 
 
 ### 生活便利
