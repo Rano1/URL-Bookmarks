@@ -3,4 +3,4 @@
 
 ### 代金卷（云服务器，VPS）
 * [如有乐享 免费的资源](http://51.ruyo.net/)
-
+* [什么值得买](https://www.smzdm.com/)
