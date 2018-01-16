@@ -26,6 +26,7 @@
 * [极客公园](http://www.geekpark.net/)
 * [华尔街见闻](https://wallstreetcn.com/)
 * [财经头条](https://www.cj1.com.cn/)
+* [人人都是产品经理](http://www.woshipm.com/)
 
 
 ### 新闻资讯
