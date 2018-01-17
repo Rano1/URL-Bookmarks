@@ -27,7 +27,7 @@
 * [华尔街见闻](https://wallstreetcn.com/)
 * [财经头条](https://www.cj1.com.cn/)
 * [人人都是产品经理](http://www.woshipm.com/)
-
+* [少数派](https://sspai.com/)
 
 ### 新闻资讯
 * [今日头条](https://www.toutiao.com/)
