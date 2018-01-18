@@ -29,6 +29,7 @@
 * [人人都是产品经理](http://www.woshipm.com/)
 * [少数派](https://sspai.com/)
 
+
 ### 新闻资讯
 * [今日头条](https://www.toutiao.com/)
 * [一点资讯](http://www.yidianzixun.com/)
@@ -100,6 +101,8 @@
 * [环信](https://www.easemob.com/)
 * [融云](http://www.rongcloud.cn/)
 
+### 模块化开发
+* [APKPLUG](http://www.apkplug.com/)
 
 ## 生活
 ============================
