@@ -119,6 +119,9 @@
 * [蚂蜂窝 自由行](http://www.mafengwo.cn/)
 
 
+### 视频
+* [youtube](https://www.youtube.com/)
+
 ### 生活便利
 * [本地通 查找网点等](http://hz.bendibao.com/wangdian/)
 * []()
