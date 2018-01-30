@@ -9,3 +9,9 @@
 ### 整理
 * [awesome-python 收集Python相关的内容](https://github.com/vinta/awesome-python)
 
+
+### Python
+
+#### 爬虫框架
+* [Scrapy](https://github.com/scrapy/scrapy)
+* [pyspider](https://github.com/binux/pyspider)
