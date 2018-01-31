@@ -10,8 +10,16 @@
 * [awesome-python 收集Python相关的内容](https://github.com/vinta/awesome-python)
 
 
+* [DeepLearningBook读书笔记](https://github.com/exacity/simplified-deeplearning)
+
+
 ### Python
 
 #### 爬虫框架
 * [Scrapy](https://github.com/scrapy/scrapy)
 * [pyspider](https://github.com/binux/pyspider)
+
+
+#### 服务器加速
+* [bbr](https://github.com/google/bbr)
+* [serverspeeder锐速(一键破解安装版)](https://github.com/91yun/serverspeeder)
