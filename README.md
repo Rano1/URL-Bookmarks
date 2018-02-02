@@ -26,8 +26,12 @@
 * [极客公园](http://www.geekpark.net/)
 * [华尔街见闻](https://wallstreetcn.com/)
 * [财经头条](https://www.cj1.com.cn/)
-* [人人都是产品经理](http://www.woshipm.com/)
 * [少数派](https://sspai.com/)
+
+
+### 产品
+* [人人都是产品经理](http://www.woshipm.com/)
+* [品玩](http://www.pingwest.com/)
 
 
 ### 新闻资讯
@@ -117,7 +121,7 @@
 * [去哪儿](https://www.qunar.com/)
 * [携程旅行](http://www.ctrip.com/)
 * [蚂蜂窝 自由行](http://www.mafengwo.cn/)
-➑➏➏
+
 
 ### 视频
 * [youtube](https://www.youtube.com/)
