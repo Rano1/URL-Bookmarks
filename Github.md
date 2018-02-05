@@ -23,3 +23,7 @@
 #### 服务器加速
 * [bbr](https://github.com/google/bbr)
 * [serverspeeder锐速(一键破解安装版)](https://github.com/91yun/serverspeeder)
+
+
+#### 拓展服务
+* [Youtube下载器](https://github.com/MrS0m30n3/youtube-dl-gui)
