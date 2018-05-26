@@ -9,7 +9,7 @@
 * [Github](https://github.com/Rano1/URL-Bookmarks/blob/master/Github.md)
 * [工具](https://github.com/Rano1/URL-Bookmarks/blob/master/Tools.md)
 * [SDK](https://github.com/Rano1/URL-Bookmarks/blob/master/SDK.md)
-
+* [生活](https://github.com/Rano1/URL-Bookmarks/blob/master/Life.md)
 
 
 ### 博客
@@ -117,8 +117,6 @@
 * [Unity Ads]
 * [Tenjin]
 
-## 生活
-============================
 
 ### 省钱
 * [什么值得买](https://www.smzdm.com/)
