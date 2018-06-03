@@ -30,3 +30,6 @@
 
 https://github.com/oracle/graal
 
+
+#### 教学
+* [计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)
