@@ -28,8 +28,8 @@
 * [Admob]
 * [Tapjoy]
 * [Mopub]
-* [Applovin]
-* [Unity Ads]
+* [Applovin](http://www.applovin.com/)
+* [Unity Ads](http://www.unity.com/)
 * [Tenjin](http://www.tenjin.com/)
 
 ### 追踪
