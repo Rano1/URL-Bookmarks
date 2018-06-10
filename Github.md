@@ -33,3 +33,6 @@
 
 #### 教学
 * [计算机科学速成课](https://github.com/1c7/crash-course-computer-science-chinese)
+
+#### 教学
+* [Linux 内核揭密](https://github.com/MintCN/linux-insides-zh)
