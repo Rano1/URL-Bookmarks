@@ -36,3 +36,5 @@
 
 #### 教学
 * [Linux 内核揭密](https://github.com/MintCN/linux-insides-zh)
+
+* [ApkToolPlus](https://github.com/linchaolong/ApkToolPlus)
