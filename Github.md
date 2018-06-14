@@ -42,3 +42,6 @@
 
 https://github.com/TalkingData/iview-weapp
 https://github.com/mtdhb/mtdhb
+
+
+https://github.com/vipstone/faceai
