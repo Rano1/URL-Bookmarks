@@ -48,3 +48,4 @@ https://github.com/vipstone/faceai
 https://github.com/facebook/Sonar
 https://github.com/jokermonn/permissions4m
 https://github.com/wxyyxc1992/Web-Series
+https://github.com/shadowsocks/go-shadowsocks2
