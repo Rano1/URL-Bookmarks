@@ -52,3 +52,4 @@ https://github.com/shadowsocks/go-shadowsocks2
 https://github.com/QMUI/QMUI_Android
 https://github.com/google/gson
 https://github.com/LiushuiXiaoxia/AndroidModular
+https://github.com/xitu/gold-miner
