@@ -53,3 +53,4 @@ https://github.com/QMUI/QMUI_Android
 https://github.com/google/gson
 https://github.com/LiushuiXiaoxia/AndroidModular
 https://github.com/xitu/gold-miner
+https://github.com/iampawan/Flutter-UI-Kit
