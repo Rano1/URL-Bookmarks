@@ -57,3 +57,4 @@ https://github.com/iampawan/Flutter-UI-Kit
 https://github.com/google/python-adb
 https://github.com/medcl/elasticsearch-analysis-ik
 https://github.com/cosmos/cosmos
+https://github.com/FiloSottile/mkcert
