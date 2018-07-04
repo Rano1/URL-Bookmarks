@@ -59,3 +59,4 @@ https://github.com/medcl/elasticsearch-analysis-ik
 https://github.com/cosmos/cosmos
 https://github.com/FiloSottile/mkcert
 https://github.com/prometheus/prometheus
+https://github.com/mfreiholz/iF.SVNAdmin
