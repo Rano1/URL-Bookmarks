@@ -61,3 +61,4 @@ https://github.com/FiloSottile/mkcert
 https://github.com/prometheus/prometheus
 https://github.com/mfreiholz/iF.SVNAdmin
 https://github.com/KeepSafe/TapTargetView
+https://github.com/yipianfengye/android-zxingLibrary
