@@ -64,3 +64,4 @@ https://github.com/KeepSafe/TapTargetView
 https://github.com/yipianfengye/android-zxingLibrary
 https://github.com/phobal/ivideo
 https://github.com/ikew0ng/SwipeBackLayout
+https://github.com/CymChad/BaseRecyclerViewAdapterHelper
