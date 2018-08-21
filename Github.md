@@ -84,3 +84,4 @@ https://github.com/mtdhb/www
 https://github.com/cypress-io/cypress
 https://github.com/bannedbook/fanqiang
 https://github.com/uber/kepler.gl
+https://github.com/pwxcoo/chinese-xinhua
