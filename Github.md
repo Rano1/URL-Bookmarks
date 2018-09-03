@@ -92,3 +92,4 @@ https://github.com/Perfare/AssetStudio
 https://github.com/Microsoft/FASTER
 https://github.com/SheetJS/js-xlsx
 ghttps://github.com/TelegramMessenger/MTProxy
+https://github.com/flutterchina/dio
