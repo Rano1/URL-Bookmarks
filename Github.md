@@ -96,3 +96,4 @@ https://github.com/flutterchina/dio
 https://github.com/Xu-Jian/VPS
 https://github.com/shadowsocks?page=2
 https://github.com/mdg-iitr/RotatingText
+https://github.com/firebase/firebase-android-sdk
