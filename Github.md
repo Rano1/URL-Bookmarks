@@ -99,3 +99,4 @@ https://github.com/mdg-iitr/RotatingText
 https://github.com/firebase/firebase-android-sdk
 https://github.com/gohugoio/hugo
 https://github.com/square/wire
+https://github.com/google/code-prettify
