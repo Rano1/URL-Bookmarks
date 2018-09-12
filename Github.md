@@ -100,3 +100,4 @@ https://github.com/firebase/firebase-android-sdk
 https://github.com/gohugoio/hugo
 https://github.com/square/wire
 https://github.com/google/code-prettify
+https://github.com/Meituan-Dianping/mpvue
