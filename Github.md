@@ -103,3 +103,4 @@ https://github.com/google/code-prettify
 https://github.com/Meituan-Dianping/mpvue
 https://github.com/you-dont-need/You-Dont-Need-Momentjs
 https://github.com/marko-js/marko
+https://github.com/InsertKoinIO/koin
