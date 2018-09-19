@@ -105,3 +105,4 @@ https://github.com/you-dont-need/You-Dont-Need-Momentjs
 https://github.com/marko-js/marko
 https://github.com/InsertKoinIO/koin
 https://github.com/yubo725/flutter-osc
+https://github.com/jesseduffield/lazygit
